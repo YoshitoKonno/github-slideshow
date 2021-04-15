@@ -3,5 +3,5 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 
-Your text
+Yoshito
 Use the left arrow to go back!
